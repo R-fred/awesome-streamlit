@@ -32,7 +32,7 @@ bandit # Bandit is a tool designed to find common security issues in Python code
 
 # Documentation
 # ------------------------------------------------------------------------------
-Sphinx==1.8.4  # https://github.com/sphinx-doc/sphinx
+Sphinx==3.0.4  # https://github.com/sphinx-doc/sphinx
 sphinx_rtd_theme # Documentation theme
 recommonmark # Documentation using Markdown
 sphinx-autobuild # Auto build and live reload server
@@ -59,11 +59,11 @@ sportsreference==0.4.6
 pydot==1.4.1
 plotly==4.1.0
 twine==2.0.0
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32.26
 yfinance==0.1.45
-lxml==4.4.1
+lxml==4.6.3
 vaderSentiment==3.2.1 # A lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. See https://github.com/cjhutto/vaderSentiment
 hvplot==0.5.2
 panel==0.7.0
-keras==2.3.1
+keras==2.6.0rc3
 yahooquery==1.0.11
