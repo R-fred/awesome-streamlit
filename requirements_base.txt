@@ -32,7 +32,7 @@ bandit # Bandit is a tool designed to find common security issues in Python code
 
 # Documentation
 # ------------------------------------------------------------------------------
-Sphinx==1.8.4  # https://github.com/sphinx-doc/sphinx
+Sphinx==3.0.4  # https://github.com/sphinx-doc/sphinx
 sphinx_rtd_theme # Documentation theme
 recommonmark # Documentation using Markdown
 sphinx-autobuild # Auto build and live reload server
