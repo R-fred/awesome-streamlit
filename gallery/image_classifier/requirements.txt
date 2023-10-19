@@ -1,5 +1,8 @@
 streamlit==0.52.2
-numpy==1.17.2
+numpy==1.22.2
 Keras==2.3.1
 Pillow==6.2.0
 tensorflow==2.0.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+scipy>=1.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
