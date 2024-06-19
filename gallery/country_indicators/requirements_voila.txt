@@ -2,3 +2,4 @@ jupyter # For comparisons with voila
 voila # For comparisons with voila
 matplotlib
 pandas
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
