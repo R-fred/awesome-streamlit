@@ -2,3 +2,4 @@ jupyter # For comparisons with voila
 voila # For comparisons with voila
 matplotlib
 pandas
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
