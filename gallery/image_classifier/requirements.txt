@@ -3,3 +3,5 @@ numpy==1.17.2
 Keras==2.3.1
 Pillow==6.2.0
 tensorflow==2.0.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
