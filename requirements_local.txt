@@ -8,3 +8,4 @@ voila # For comparisons with voila
 bqplot # For comparisons with voila
 selenium==3.141.0
 ptvsd # Python Tools for Visual Studio debug server. See https://github.com/microsoft/ptvsd
+jupyterlab>=4.4.8 # not directly required, pinned by Snyk to avoid a vulnerability
